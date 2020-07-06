@@ -1,19 +1,17 @@
-# react-hooks-redux-thunk-pattern #
-
 ## Install dependencies
 
 ~~~
-npm install
+yarn install
 ~~~
 
 ## Usage
 
 Start the REST API server (JSON Server):
 ~~~
-npm run server
+yarn run server
 ~~~
 
 Then, start the React development server:
 ~~~
-npm start
+yarn start
 ~~~
